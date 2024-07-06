@@ -2,6 +2,7 @@
 title = 'Additional Back Details, Two Movement Patterns'
 date = 2024-07-06T00:00:50-04:00
 draft = false
+#tags = [“side control”, "back attack", "armbar", "triangle", "patterns"]
 +++
 
 Covered 3 areas; more details and reps for back finish, and two movement patterns that are likely to occur from escaping side control.
