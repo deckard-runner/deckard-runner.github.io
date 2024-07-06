@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Notes to Self; thoughts on BJJ techniques</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Notes to Self; thoughts on BJJ techniques</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jun 2024 21:26:06 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 00:00:50 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SecondTime</title>
-      <link>http://localhost:1313/posts/secondtime/</link>
-      <pubDate>Thu, 27 Jun 2024 21:26:06 -0400</pubDate>
-      <guid>http://localhost:1313/posts/secondtime/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FirstTime</title>
-      <link>http://localhost:1313/posts/firsttime/</link>
-      <pubDate>Thu, 27 Jun 2024 19:17:41 -0400</pubDate>
-      <guid>http://localhost:1313/posts/firsttime/</guid>
-      <description></description>
+      <title>Additional Back Details, Two Movement Patterns</title>
+      <link>http://localhost:1313/posts/movementpatterns/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:50 -0400</pubDate>
+      <guid>http://localhost:1313/posts/movementpatterns/</guid>
+      <description>Covered 3 areas; more details and reps for back finish, and two movement patterns that are likely to occur from escaping side control.&#xA;Back details:&#xA;Biggest one that seems of no consequence but is super important is when going for the armbar from the back, make sure to get my lower leg weaved above opponents arms (i.e. almost under their chin) so that when their grip breaks and they try and posture/hitchhiker/etc I’m already in place and not scrambling to try and get my position set.</description>
     </item>
   </channel>
 </rss>

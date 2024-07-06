@@ -1,5 +1,5 @@
 baseURL = 'https://deckard-runner.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Notes to Self; thoughts on BJJ techniques'
 
 theme = 'archie'
