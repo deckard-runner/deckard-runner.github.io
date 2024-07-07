@@ -23,4 +23,4 @@ In the way a straightjacket works, will have to fight for this. Legs can transit
 more notes to remember when trying to hand fight from the back:
 
 - The person with the top hand position is winning. When you are trying to hand fight look to win back the top hand position or attacking for a sub will be very difficult
-- Cross wrist grips are the most powerful (like in the picture below) and straight wrist grips are usable but not ideal. Cross grips allow a more dominant angle to trap the arm.
+- Cross wrist grips are the most powerful [\(like in this picture, straighjacket\)](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F80-20-of-john-danahers-straightjacket-system-v0-3o9echb3yyha1.png%3Fwidth%3D747%26format%3Dpng%26auto%3Dwebp%26s%3Dd852d2c9640b4a9d9a6afb6c103275aa173cdaf6) and straight wrist grips are usable but not ideal. Cross grips allow a more dominant angle to trap the arm.
