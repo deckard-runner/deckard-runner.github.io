@@ -2,6 +2,7 @@
 title = 'Escaping Mount; subs from mount'
 date = 2024-07-06T13:47:29-04:00
 draft = false
+tags = ["mount","escape", "modified mount", "slx", "submissions"]
 +++
 Escaping Mount:
 

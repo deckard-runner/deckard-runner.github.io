@@ -2,7 +2,7 @@
 title = 'Side Control, and tweaks to back attack/triangle armbar combo'
 date = 2024-07-06T13:16:36-04:00
 draft = false
-#tags = [“side control”, "armbar", "triangle", "rnc", "back", "escape"]
+tags = ["side control", "armbar", "triangle", "rnc", "back", "escape"]
 +++
 
 2 main sections, side control escape and further tweaks to back attack triangle/armbar combo.
