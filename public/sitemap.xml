@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/back-attack/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/side-control/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sidecontroltoback/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/turtle/</loc>
+    <lastmod>2024-08-22T16:14:39-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/arm-trapping/</loc>
     <lastmod>2024-07-27T11:12:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-27T11:12:42-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/offense/</loc>
-    <lastmod>2024-07-27T11:12:42-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-27T11:12:42-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/sidecontroloffense/</loc>
     <lastmod>2024-07-27T11:12:42-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sidecontrol/</loc>
-    <lastmod>2024-07-27T11:12:42-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-27T11:12:42-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/escape/</loc>
@@ -50,9 +62,6 @@
     <loc>http://localhost:1313/tags/rnc/</loc>
     <lastmod>2024-07-06T13:16:36-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/side-control/</loc>
-    <lastmod>2024-07-06T13:16:36-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/sidecontrol/</loc>
     <lastmod>2024-07-06T13:16:36-04:00</lastmod>
   </url><url>
@@ -60,9 +69,6 @@
     <lastmod>2024-07-06T13:16:36-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/movementpatterns/</loc>
-    <lastmod>2024-07-06T00:00:50-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/back-attack/</loc>
     <lastmod>2024-07-06T00:00:50-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/patterns/</loc>

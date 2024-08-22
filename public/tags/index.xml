@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Notes to Self; thoughts on BJJ techniques</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jul 2024 11:12:42 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 16:14:39 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back Attack</title>
+      <link>http://localhost:1313/tags/back-attack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/back-attack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side Control</title>
+      <link>http://localhost:1313/tags/side-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/side-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Turtle</title>
+      <link>http://localhost:1313/tags/turtle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/turtle/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Arm Trapping</title>
       <link>http://localhost:1313/tags/arm-trapping/</link>
@@ -86,24 +107,10 @@
       <description></description>
     </item>
     <item>
-      <title>Side Control</title>
-      <link>http://localhost:1313/tags/side-control/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/side-control/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Triangle</title>
       <link>http://localhost:1313/tags/triangle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/triangle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Back Attack</title>
-      <link>http://localhost:1313/tags/back-attack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/back-attack/</guid>
       <description></description>
     </item>
     <item>
