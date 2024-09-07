@@ -2,7 +2,7 @@
 title = 'Guard Retention'
 date = 2024-09-02T09:58:07-04:00
 tags = ["kesa", "guard", "framing", "half guard"]
-draft = true
+draft = false
 +++
 Guard retention:
 3 stages, early middle late. 
