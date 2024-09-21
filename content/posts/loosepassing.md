@@ -1,5 +1,5 @@
 +++
-title = 'Loosepassing'
+title = 'Loose Passing'
 date = 2024-09-21T11:06:39-04:00
 tags = ["loose passing", "spine alignment", "leg drag"]
 draft = false
